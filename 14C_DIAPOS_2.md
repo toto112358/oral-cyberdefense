@@ -1,12 +1,15 @@
 ---
-title: sujet 14 -- cyberdefense
 author:
+  - Nguyen AN KHANH HO \newline
   - Luca PHAM-TRONG\newline
-  - Nguyen An Khanh Ho
+  - Paul SEOUE
 output: pdf_document
 theme: s4ndm4n
 ---
 
-# intro
+# Intro
+## blabla
 
-# hahah
+# foo
+
+# bar

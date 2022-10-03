@@ -1,0 +1,8 @@
+personne qui parle en bas diapos
+
+1ere diapo : photos, num groupe, sujet, date, N° reunion, interlocuteurs + photos
+
+derniere diapo : sources
+changer fond d'écran car on voit mal sur projecteur
+
+Beaucoup à faire. Lisez le cahier des charges dans ce repertoire
